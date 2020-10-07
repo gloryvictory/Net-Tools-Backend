@@ -1,0 +1,17 @@
+astroid==2.4.1
+colorama==0.4.3
+docutils==0.16
+folderstats==0.3.0
+isort==4.3.21
+lazy-object-proxy==1.4.3
+mccabe==0.6.1
+numpy==1.19.0
+pandas==1.0.5
+pylint==2.5.2
+pypiwin32==223
+python-dateutil==2.8.1
+pytz==2020.1
+pywin32==227
+six==1.14.0
+toml==0.10.1
+wrapt==1.12.1
