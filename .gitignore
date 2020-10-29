@@ -1,0 +1,32 @@
+# Directories
+.DS_Store
+.git
+.git/*
+node_modules
+/dist
+/venv
+venv/*
+/__pycache__
+
+
+*.db
+*.csv
+*.csv*
+
+*.xls
+*.xl*
+
+
+
+# local env files
+.env.local
+.env.*.local
+
+
+# Log files
+*.log
+
+# Editor directories and files
+.idea
+.vscode
+*.sw?
